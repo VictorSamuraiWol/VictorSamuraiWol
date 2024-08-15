@@ -14,4 +14,4 @@
 ![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true)
 ![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol)](https://github.com/VictorSamuraiWol/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol&layout=compact&theme=tokyonight)
