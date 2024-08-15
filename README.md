@@ -4,7 +4,7 @@
 <br>
 
 <div style="display: flex">
-  <img width=450 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&theme=tokyonight" />
+  <img width=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&theme=tokyonight" />
   <img width=500 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorSamuraiWol&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </div>
 
