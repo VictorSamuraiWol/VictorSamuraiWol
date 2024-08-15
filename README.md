@@ -8,10 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol&layout=compact&theme=tokyonight)
-
-
 <a href="https://github.com/VictorSamuraiWol/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&theme=tokyonight" />
 </a>
