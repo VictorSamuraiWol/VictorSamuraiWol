@@ -28,9 +28,9 @@
 
 <div><br>
   <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/" target="_blank">
-    <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://github.com/VictorSamuraiWol">
-    <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   </a>
 </div>
