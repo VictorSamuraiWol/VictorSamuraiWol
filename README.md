@@ -8,5 +8,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol&layout=compact&theme=tokyonight)
+![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=tokyonight&height=180em)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSamuraiWol&layout=compact&theme=tokyonight&height=180em)
