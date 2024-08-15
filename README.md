@@ -51,15 +51,13 @@
 ♦ Repositório (https://github.com/VictorSamuraiWol/meu_portfolio)
 ### 🚀 Projeto Challenge Encriptação/Decriptação - Alura/ONE (Oracle Next Education - fev/2024
 ♦ Deploy (https://projeto-challenge-one-iniciante-em-programacao.vercel.app/)
-♦ Repositório (https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--
-Iniciante-em-Programacao)
+♦ Repositório (https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao)
 ### 🚀 Projeto site-modelo Spotify - Alura - jan/2024
 ♦ Deploy (https://project-spotify-imersao-alura.vercel.app/)
 ♦ Repositório (https://github.com/VictorSamuraiWol/project-spotify-imersao-alura)
 ### 🚀 Projeto site de Games - Proz/AWS - nov/2023
 ♦ Deploy (https://repositorio-games-aws.vercel.app/)
-♦ Repositório
-(https://github.com/MarcelloSCavalcanti/Repositorio_Games_Aws_Proz)
+♦ Repositório (https://github.com/MarcelloSCavalcanti/Repositorio_Games_Aws_Proz)
 
 ## 🌍 Contacts
 <div><br>
