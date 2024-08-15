@@ -12,4 +12,4 @@
 ![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&hide=contribs,prs)
 ![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true)
-![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=radical)
+![Victor Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=dark)
