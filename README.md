@@ -28,16 +28,6 @@
   <img align="right" alt="victor-wolverine" height="100" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-24-512.png" />
 </div>
 
-## 🌍 Contacts
-<div><br>
-  <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/" target="_blank">
-    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://github.com/VictorSamuraiWol" target="_blank">
-    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </a>
-</div>
-
 ## Selected Projects
 ### 🚀Projeto Video gerado por I.A.s - DIO/Santander - julho/2024
 ♦ Repositório (https://github.com/VictorSamuraiWol/lab-natty-or-not)
@@ -70,3 +60,13 @@ Iniciante-em-Programacao)
 ♦ Deploy (https://repositorio-games-aws.vercel.app/)
 ♦ Repositório
 (https://github.com/MarcelloSCavalcanti/Repositorio_Games_Aws_Proz)
+
+## 🌍 Contacts
+<div><br>
+  <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/" target="_blank">
+    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+  <a href="https://github.com/VictorSamuraiWol" target="_blank">
+    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a>
+</div>
