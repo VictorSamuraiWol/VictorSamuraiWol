@@ -28,7 +28,7 @@
   <img align="right" alt="victor-wolverine" height="100" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-24-512.png" />
 </div>
 
-## Selected Projects
+## 🌌 Selected Projects
 ### 🚀Projeto Video gerado por I.A.s - DIO/Santander - julho/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/lab-natty-or-not)
 ### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - julho/2024
