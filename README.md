@@ -32,7 +32,7 @@
 ### 🚀Projeto Video gerado por I.A.s - DIO/Santander - julho/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/lab-natty-or-not)
 ### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - julho/2024
-📜 [Repositório](https://github.com/VictorSamuraiWol/project-podcast-cloudcomputing)
+📜 [Repositório](https://github.com/VictorSamuraiWol/project-podcast-cloud-computing)
 ### 🚀 Projeto Artigo Técnico gerado por I.A.s - DIO/Santander - julho/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-article-cloudcomputing)
 ### 🚀 Projeto Challenge AluraFlix - Alura/ONE (Oracle Next Education) - julho/2024
