@@ -69,4 +69,4 @@
   </a></kbd>
 </div>
 
-![Snake animation](https://github.com/VictorSamuraiWol)
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/issues/1)
