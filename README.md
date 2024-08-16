@@ -69,4 +69,8 @@
   </a></kbd>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/issues/1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
+</picture>
