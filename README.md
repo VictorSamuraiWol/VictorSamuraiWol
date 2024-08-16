@@ -68,3 +68,5 @@
     <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   </a></kbd>
 </div>
+
+![Snake animation](https://github.com/VictorSamuraiWol)
