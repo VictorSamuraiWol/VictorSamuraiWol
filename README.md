@@ -9,7 +9,7 @@
 </div>
 
 ## ✨ Skills
-<div style="display: inline-block"><br>
+<div style="display: inline-block"><br><kbd>
   <img align="center" alt="victor-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="victor-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
@@ -24,7 +24,7 @@
   <img align="center" alt="victor-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
   <img align="center" alt="victor-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="victor-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-  <img align="center" alt="victor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="victor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></kbd>
   <img align="right" alt="victor-wolverine" height="100" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-24-512.png" />
 </div>
 
@@ -60,11 +60,11 @@
 ♦ [Repositório](https://github.com/MarcelloSCavalcanti/Repositorio_Games_Aws_Proz)
 
 ## 🌍 Contacts
-<div><br>
+<div><br><kbd>
   <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/" target="_blank">
-    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://github.com/VictorSamuraiWol" target="_blank">
-    <img align="center" alt="victor-git" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </a>
+    <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  </a></kbd>
 </div>
