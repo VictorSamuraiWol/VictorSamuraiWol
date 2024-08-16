@@ -34,7 +34,7 @@
 ### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - julho/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-podcast-cloud-computing)
 ### 🚀 Projeto Artigo Técnico gerado por I.A.s - DIO/Santander - julho/2024
-📜 [Repositório](https://github.com/VictorSamuraiWol/project-article-cloudcomputing)
+📜 [Repositório](https://github.com/VictorSamuraiWol/project-article-cloud-computing)
 ### 🚀 Projeto Challenge AluraFlix - Alura/ONE (Oracle Next Education) - julho/2024
 📟 [Deploy](https://challenge-alura-flix-gold.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/challenge-alura-flix)
