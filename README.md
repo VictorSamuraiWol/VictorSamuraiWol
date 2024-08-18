@@ -59,6 +59,12 @@
 📟 [Deploy](https://repositorio-games-aws.vercel.app/)
 📜 [Repositório](https://github.com/MarcelloSCavalcanti/Repositorio_Games_Aws_Proz)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🌍 Contacts
 <div><br><kbd>
   <a href="https://www.linkedin.com/in/victor-cardoso-cloud-front/" target="_blank">
@@ -68,9 +74,3 @@
     <img align="center" alt="victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   </a></kbd>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSamuraiWol/VictorSamuraiWol/output/github-contribution-grid-snake.svg">
-</picture>
