@@ -45,7 +45,7 @@
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-organo-alura-latam)
 ### 🚀 Projeto Challenge AluraGeek - Alura/ONE (Oracle Next Education) - maio/2024
 📟 [Deploy](https://projeto-challenge-one-alura-geek-alura-oracle.vercel.app/)
-📜 [Repositório](https://github.com/VictorSamuraiWol/Projeto-Challenge-ONEAluraGeek-Alura-Oracle)
+📜 [Repositório](https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE-AluraGeek-Alura-Oracle)
 ### 🚀 Projeto Challenge Portfólio - Alura/ONE (Oracle Next Education) - abril/2024
 📟 [Deploy](https://meu-portfolio-challenge-one-alura-oracle.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/meu_portfolio)
