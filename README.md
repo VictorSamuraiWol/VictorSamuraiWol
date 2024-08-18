@@ -1,6 +1,6 @@
-## Olá! Bem vindos ao meu github! Eu sou o Victor Cardoso
+## Hello! Welcome to my GitHub! I am Victor Cardoso
 
-### 👨‍💻 Estudante Front End e AWS Cloud Computing
+### 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
 <br>
 
 <div>
