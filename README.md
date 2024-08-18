@@ -1,4 +1,4 @@
-## Hello! Welcome to my GitHub! I am Victor Cardoso
+## Hello! Welcome to my GitHub, I am Victor Cardoso!
 
 ### 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
 <br>
