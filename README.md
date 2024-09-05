@@ -29,6 +29,9 @@
 </div>
 
 ## 🌌 Selected Projects
+### 🚀 Projeto AWS Cloud Computing e Google Germini - Alura/Google - setembro/2024
+📟 [Deploy](https://projeto-cloud-imersao.vercel.app/)
+📜 [Repositório](https://github.com/VictorSamuraiWol/projeto-cloud-imersao)
 ### 🚀Projeto Video gerado por I.A.s - DIO/Santander - julho/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/lab-natty-or-not)
 ### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - julho/2024
