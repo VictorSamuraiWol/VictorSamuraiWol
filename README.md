@@ -29,7 +29,7 @@
 </div>
 
 ## 🌌 Selected Projects
-### AWS Architecture Questions Project - Victor Cardoso - setembro/2024
+### AWS Architecture Questions Project - setembro/2024
 📟 [Deploy](https://architecture-aws-1.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
 ### 🚀 Projeto site AWS Cloud Computing e Google Germini - Alura/Google - setembro/2024
