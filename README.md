@@ -25,7 +25,7 @@
   <img align="center" alt="victor-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="victor-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
   <img align="center" alt="victor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></kbd>
-  <img align="right" alt="victor-wolverine" height="100" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-24-512.png" />
+  <img align="right" alt="victor-wolverine" height="50" src="https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-24-512.png" />
 </div>
 
 ## 🌌 Selected Projects
