@@ -29,6 +29,8 @@
 </div>
 
 ## 🌌 Selected Projects
+### Imersão Cloud DevOps - julho/2025
+📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
 ### AWS Architecture Questions Project - setembro/2024
 📟 [Deploy](https://architecture-aws-1.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
