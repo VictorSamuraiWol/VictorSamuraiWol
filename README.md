@@ -33,7 +33,7 @@
 📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
 ### AWS Architecture Questions Project - setembro/2024
 📟 [Deploy](https://architecture-react-cloud-questions-1-h8km69oom.vercel.app/)
-📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
+📜 [Repositório](https://architecture-react-cloud-questions.vercel.app/)
 ### 🚀 Projeto site AWS Cloud Computing e Google Germini - Alura/Google - setembro/2024
 📟 [Deploy](https://projeto-cloud-imersao.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/projeto-cloud-imersao)
