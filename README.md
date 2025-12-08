@@ -3,7 +3,10 @@
 ### 👨‍💻 AWS Certified Cloud Practitioner, AWS Cloud Computing and Front-End Student
 <br>
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&show_icons=true&theme=radical)
+<div>
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSamuraiWol&theme=tokyonight" />
+  <img width=338 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorSamuraiWol&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</div>
 
 ## ✨ Skills
 <div style="display: inline-block"><br><kbd>
