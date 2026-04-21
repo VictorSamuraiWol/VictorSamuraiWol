@@ -29,12 +29,12 @@
 </div>
 
 ## 🌌 Selected Projects
-### Training App - april/2026
+### 🚀 Training App - april/2026
 📟 [Deploy](https://training-app-liard-ten.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/training-app)
-### Imersão Cloud DevOps - july/2025
+### 🚀 Imersão Cloud DevOps - july/2025
 📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
-### AWS Architecture Questions Project - september/2024
+### 🚀 AWS Architecture Questions Project - september/2024
 📟 [Deploy](https://architecture-react-cloud-questions.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
 ### 🚀 Projeto site AWS Cloud Computing e Google Germini - Alura/Google - september/2024
