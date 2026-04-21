@@ -30,8 +30,8 @@
 
 ## 🌌 Selected Projects
 ### Training App - april/2026
-📟 [Deploy](https://architecture-react-cloud-questions.vercel.app/)
-📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
+📟 [Deploy](https://training-app-liard-ten.vercel.app/)
+📜 [Repositório](https://github.com/VictorSamuraiWol/training-app)
 ### Imersão Cloud DevOps - july/2025
 📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
 ### AWS Architecture Questions Project - september/2024
