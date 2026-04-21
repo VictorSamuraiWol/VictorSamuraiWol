@@ -29,35 +29,38 @@
 </div>
 
 ## 🌌 Selected Projects
-### Imersão Cloud DevOps - julho/2025
-📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
-### AWS Architecture Questions Project - setembro/2024
+### Training App - april/2026
 📟 [Deploy](https://architecture-react-cloud-questions.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
-### 🚀 Projeto site AWS Cloud Computing e Google Germini - Alura/Google - setembro/2024
+### Imersão Cloud DevOps - july/2025
+📜 [Repositório](https://github.com/VictorSamuraiWol/imersao-devops-google-cloud)
+### AWS Architecture Questions Project - september/2024
+📟 [Deploy](https://architecture-react-cloud-questions.vercel.app/)
+📜 [Repositório](https://github.com/VictorSamuraiWol/architecture-aws-1)
+### 🚀 Projeto site AWS Cloud Computing e Google Germini - Alura/Google - september/2024
 📟 [Deploy](https://projeto-cloud-imersao.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/projeto-cloud-imersao)
-### 🚀Projeto Video gerado por I.A.s - DIO/Santander - julho/2024
+### 🚀Projeto Video gerado por I.A.s - DIO/Santander - july/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/lab-natty-or-not)
-### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - julho/2024
+### 🚀 Projeto Podcast gerado por I.A.s - DIO/Santander - july/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-podcast-cloud-computing)
-### 🚀 Projeto Artigo Técnico gerado por I.A.s - DIO/Santander - julho/2024
+### 🚀 Projeto Artigo Técnico gerado por I.A.s - DIO/Santander - july/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-article-cloud-computing)
-### 🚀 Projeto Challenge AluraFlix - Alura/ONE (Oracle Next Education) - julho/2024
+### 🚀 Projeto Challenge AluraFlix - Alura/ONE (Oracle Next Education) - july/2024
 📟 [Deploy](https://challenge-alura-flix-gold.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/challenge-alura-flix)
-### 🚀 Projeto Ebook gerado por I.A.s - DIO/Santander - junho/2024
+### 🚀 Projeto Ebook gerado por I.A.s - DIO/Santander - june/2024
 📜 [Repositório](https://github.com/VictorSamuraiWol/Project-ebook-aventura-link)
-### 🚀 Projeto Organo - Alura/ONE (Oracle Next Education) - junho/2024
+### 🚀 Projeto Organo - Alura/ONE (Oracle Next Education) - june/2024
 📟 [Deploy](https://project-organo-alura-latam.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/project-organo-alura-latam)
-### 🚀 Projeto Challenge AluraGeek - Alura/ONE (Oracle Next Education) - maio/2024
+### 🚀 Projeto Challenge AluraGeek - Alura/ONE (Oracle Next Education) - march/2024
 📟 [Deploy](https://projeto-challenge-one-alura-geek-alura-oracle.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE-AluraGeek-Alura-Oracle)
-### 🚀 Projeto Challenge Portfólio - Alura/ONE (Oracle Next Education) - abril/2024
+### 🚀 Projeto Challenge Portfólio - Alura/ONE (Oracle Next Education) - april/2024
 📟 [Deploy](https://meu-portfolio-challenge-one-alura-oracle.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/meu_portfolio)
-### 🚀 Projeto Challenge Encriptação/Decriptação - Alura/ONE (Oracle Next Education - fev/2024
+### 🚀 Projeto Challenge Encriptação/Decriptação - Alura/ONE (Oracle Next Education - feb/2024
 📟 [Deploy](https://projeto-challenge-one-iniciante-em-programacao.vercel.app/)
 📜 [Repositório](https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao)
 ### 🚀 Projeto site-modelo Spotify - Alura - jan/2024
